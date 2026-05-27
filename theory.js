@@ -36,6 +36,18 @@ const theoryHTML = `
                     <li>Test final cu 15 întrebări mixte</li>
                 </ul>
             </div>
+
+            <div class="theory-box" style="background: #ecfdf5; border-color: #10b981;">
+                <h4>🔤 Tipologia vocabularului B2 — Sg/Pl orientativ</h4>
+                <p>La nivelul B2, substantivele din tabelele de mai jos sunt majoritar <strong>concepte profesionale</strong> sau <strong>compuse cu sens specific</strong>. Iată tipologia:</p>
+                <ul style="margin-left: 18px;">
+                    <li><strong>Concepte sg tantum</strong>: <em>die Sicherheit, die Karriere, der Stress</em></li>
+                    <li><strong>Substantive concrete cu plural</strong>: <em>das Jobangebot · die Jobangebote</em> · <em>die Gehaltserhöhung · die Gehaltserhöhungen</em> · <em>der Bonus · die Boni / die Bonusse</em> · <em>der Firmenwagen · die Firmenwagen</em> (pl identic)</li>
+                    <li><strong>Substantive deja la plural</strong>: <em>die Karrieremöglichkeiten</em> (sg „die Karrieremöglichkeit"), <em>die Zusatzleistungen</em></li>
+                    <li><strong>Colocații verbale</strong>: „die Kündigung einreichen", „den Job wechseln" — formule fixe</li>
+                </ul>
+                <p style="margin-top: 8px;">Pentru substantivele concrete noi, verifică pluralul pe <a href="https://de.pons.com/deklination/deutsch" target="_blank" style="color: #047857;">PONS</a> — la examenul B2, precizia gen+plural face diferența.</p>
+            </div>
         </div>
     </div>
 
